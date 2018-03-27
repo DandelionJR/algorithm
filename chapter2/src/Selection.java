@@ -21,7 +21,7 @@ public class Selection {
         }
     }
     public static void main(String[] args){
-        String[] a = {"2","5","1","12","6","8","7","11"};
+        Integer[] a = {2,5,1,12,6,8,7,11};
         sort(a);
         Example.show(a);
     }
